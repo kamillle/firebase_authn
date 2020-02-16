@@ -1,4 +1,4 @@
-# firebase_autnn
+# firebase_authn
 
 ## Project setup
 ```
